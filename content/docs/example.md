@@ -1,6 +1,7 @@
 ---
 title: Example
 draft: true
+toc_hide: true
 ---
 
 Example doc!
