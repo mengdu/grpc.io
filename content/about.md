@@ -11,16 +11,16 @@ connect devices, mobile applications and browsers to backend services.
 
 ### The main usage scenarios
 
-* Efficiently connecting polyglot services in microservices style architecture
-* Connecting mobile devices, browser clients to backend services
-* Generating efficient client libraries
+- Efficiently connecting polyglot services in microservices style architecture
+- Connecting mobile devices, browser clients to backend services
+- Generating efficient client libraries
 
 ### Core features that make it awesome
 
-* Idiomatic client libraries in 10 languages
-* Highly efficient on wire and with a simple service definition framework
-* Bi-directional streaming with http/2 based transport
-* Pluggable auth, tracing, load balancing and health checking
+- Idiomatic client libraries in 10 languages
+- Highly efficient on wire and with a simple service definition framework
+- Bi-directional streaming with http/2 based transport
+- Pluggable auth, tracing, load balancing and health checking
 
 ## Who’s using gRPC and why?
 
@@ -46,9 +46,9 @@ Google to power use cases from microservices to the "last mile" of computing
 For more background on why we created gRPC, see the [gRPC Motivation and Design
 Principles](/blog/principles/) on the [gRPC blog](/blog/).
 
-{{< note >}}
-  <a name="officially-supported-languages-and-platforms"></a>
+{{< alert title="Note" color="info" >}}
+<a name="officially-supported-languages-and-platforms"></a>
 
-  Our table of **officially supported languages and platforms** has moved!
-  See [Official support](/docs/#official-support).
-{{< /note >}}
+Our table of **officially supported languages and platforms** has moved!
+See [Official support](/docs/#official-support).
+{{< /alert >}}
