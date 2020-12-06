@@ -25,3 +25,12 @@ a > .fa-external-link-alt::before {
     width: 50%;
   }
 }
+
+// Docs
+
+// In-page toc. Apply this class as a modifier to the Docsy-provided .td-toc
+.td-toc--inline {
+  border-left: none;
+  position: static;
+  height: auto;
+}
