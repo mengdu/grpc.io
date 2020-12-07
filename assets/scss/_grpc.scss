@@ -34,3 +34,10 @@ a > .fa-external-link-alt::before {
   position: static;
   height: auto;
 }
+
+// Language Home Pages
+.prog-lang-home__list {
+  ul {
+    padding-left: 1.25rem;
+  }
+}
